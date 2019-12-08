@@ -1,0 +1,6 @@
+Phone#		Name			Street			Zip		City		State/Province
+1(234)-5678 	Jeff_Fischer 		1234_Fake_Street	11111		Oshkosh 	WI
+1(546)-3210 	Roger_Smith 		786_Main_Street		22222		Kenosha 	Ontario
+1(498)-6471 	Brian_Lewis 		432_Oak_Ln		45678		Ipsilanti 	MI
+1(987)-6547 	Carter_Pewtershmidt 	11145_11th_St_SE	97865-1200	Salt_Lake_City 	OR
+1(458)-7891 	Brian_Griffin		49586_Cherry_Street	78956		Boise		ID
