@@ -51,7 +51,7 @@ public class Prob17 {
 
     /**
      * gets user desired result and displays it.
-     * @param mat gets a Moatrix type object
+     * @param mat gets a Matrix type object
      * @param choice gets user's choice
      * @param kbd gets the variable referring scanner so this method could read inputs
      */
